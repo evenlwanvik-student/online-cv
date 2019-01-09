@@ -15,8 +15,8 @@ sidebar:
     email: evenlwanvik@gmail.com
     phone: +47 4159643
     website: TBA #do not add http://
-    linkedin: www.linkedin.com/in/evenlwanvik/en
-    github: https://github.com/evenlwanvik-student/
+    linkedin: linkedin.com/in/evenlwanvik/en
+    github: github.com/evenlwanvik-student/
     gitlab:
     bitbucket:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -43,46 +43,45 @@ sidebar:
       - item: Innovation and technology
         link:       
         
-      - item: Music
+      - item: Music, playing instruments
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      - incomplete -
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 2-year MSc in Cybernetics and Robotics
+      university: Norwegian University of Science and Technology (NTNU)
+      time: 2018 - present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
+        Cybernetics is the science of communications and automatic control systems.
+        My main field of study is "Adpated Computer Systems", which involves a 
+        further specialization in computer subjects (embedded systems, real-time- 
+        and  analog/digital signal processing), projecting of instrumentation systems, 
+        data communication, technical safety and operator communication.
+        
           - Bullet point
           - Bullet point
+          
+        link: https://www.ntnu.edu/studies/mitk
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Electrical Engineering (Automation and Control engineering)
+      university: Norwegian University of Science and Technology (NTNU)
+      time: 2014 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Typical assignments and projects involved control systems where different 
+        types of coding, electronics, and mechanics (often referred to as mechatronics) 
+        were employed. 
 
-          - Bullet point
-          - Bullet point
+          - Control theory
+          - PLC, HMI, industrial bus comm.
+          - Microcontrollers
+          - Practical experience
+          - Industrial automation
+          - Maths/physics
+          - Electronics
 
 experiences:
     - role: Lead Developer
