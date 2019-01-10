@@ -37,13 +37,13 @@ sidebar:
       - item: Exercising and nutrition
         link:
 
-      - item: Cosmology, physics and mathematics
+      - item: Science (phys, maths, etc.)
         link:
 
       - item: Innovation and technology
         link:       
         
-      - item: Music, playing instruments
+      - item: Music, instruments
         link:
 
 career-profile:
@@ -60,10 +60,11 @@ education:
         My main field of study is "Adpated Computer Systems", which involves a 
         further specialization in computer subjects (embedded systems, real-time- 
         and  analog/digital signal processing), projecting of instrumentation systems, 
-        data communication, technical safety and operator communication.
+        data communication, and communication.
         
-          - Bullet point
-          - Bullet point
+          - Control theory, modeling and simulation
+          - Embedded systems, RT, signal processing, comm.
+          - Algorithms, networks, data structures
           
         link: https://www.ntnu.edu/studies/mitk
 
@@ -75,13 +76,9 @@ education:
         types of coding, electronics, and mechanics (often referred to as mechatronics) 
         were employed. 
 
-          - Control theory
-          - PLC, HMI, industrial bus comm.
-          - Microcontrollers
-          - Practical experience
-          - Industrial automation
-          - Maths/physics
-          - Electronics
+          - Control theory, Industrial automation, Maths/physics
+          - PLC, HMI, industrial bus comm, Microcontrollers
+          - Practical experience, Electronics
 
 experiences:
     - role: Lead Developer
