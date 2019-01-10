@@ -130,25 +130,27 @@ projects:
       section. 
       
     assignments:
-      - title: Autonomous control of helicopter and boat
-        link: <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Linear system control
+        link: "https://github.com/evenlwanvik-student/Linsys"
+        tagline: "MSc Lab project as a part of Linear System Theory. Employed control theory for optimal operation 
+                  of a 3 DOF Helicopter and simulated autonomous cargo ship."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Electromechanical ping pong game
+        link: "https://github.com/evenlwanvik-student/byggern"
+        tagline: "MSc lab project as a part of Embedded and Industrial Computer Systems Design."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Control systems project
+        tagline: "BSc lab project as a part of Control Systems And Control Engineering. We used ADC converters, 
+                  PLC and HMI to manage different types of actuators (control valves, frequency converters, etc.) 
+                  based on feedback (pressure and vortex transmitters) and various control loop mechanisms. 
+                  A master/slave PLC, decentralized computer and HMI display were interconnected and communicated 
+                  via PROFIBUS DP and Ethernet."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Certificate of completed apprenticeship
+        tagline: "For my examination as an automatician I created a ’test bench’. It incorporated sensors, servo
+                  motor w/ controller, pump, frequency converter, pneumatic cylinders, HMI and PLC. The primary 
+                  purpose of this test bench, except for my examination, was for future apprentices and employees 
+                  to get acquainted with hardware, software, etc.."
 
 publications:
     title: Papers
