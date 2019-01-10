@@ -147,15 +147,15 @@ projects:
                   via PROFIBUS DP and Ethernet."
 
       - title: Certificate of completed apprenticeship
-        tagline: "For my examination as an automatician I created a ’test bench’. It incorporated sensors, servo
-                  motor w/ controller, pump, frequency converter, pneumatic cylinders, HMI and PLC. The primary 
-                  purpose of this test bench, except for my examination, was for future apprentices and employees 
-                  to get acquainted with hardware, software, etc.."
+        tagline: "For my examination as an automatician I created a test bench whose primary purpose was for future 
+                  apprentices and employees to get acquainted with the hardware, software, etc. that existed at the
+                  factory. The testbench incorporated sensors, servo motor/controller, pump, frequency converter, 
+                  pneumatic cylinders, HMI and PLC."
 
 publications:
     title: Papers
     intro: |
-      So far I've only written a bachelor's thesis. Hopefully this section will be more crowded in the future :).
+      So far I've only written a bachelor's thesis. Hopefully this section will be more crowded in the future.
 
     papers:
       - title: 	Real-Time Schottky Measurements in the LHC
