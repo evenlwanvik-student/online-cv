@@ -179,6 +179,9 @@ skills:
       - name: Julia
         level: 70%
         
+      - name: PLC (HMI, Ladder/IL/SFC)
+        level: 68%    
+        
       - name: Wireshark
         level: 65%
         
