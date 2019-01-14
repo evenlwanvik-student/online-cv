@@ -32,12 +32,15 @@ sidebar:
 
       - idiom: French
         level: Intermediate Knowledge
+       
+      - idiom: German
+        level: Basic
 
     interests:
       - item: Exercising and nutrition
         link:
 
-      - item: Science (phys, maths, etc.)
+      - item: Science (phys, maths, cosm, etc.)
         link:
 
       - item: Innovation and technology
@@ -45,11 +48,22 @@ sidebar:
         
       - item: Music, instruments
         link:
+        
+      - item: Video games
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Very familiar with the Linux OS...
+      Earlier supervisors would say that I am a flexible and diligent, eager to engage with a new project or task. I am a structured 
+      individual who plans his day/week around studies, gym, prepearing meals and friends. This is also reflected 
+      
+      FORTSETT HÆR!!
+      
+      When I am not working or studying I usually go to for a run or to the gym, play some video games, socialize or master 
+      a new skill. I am an enormous fan of science and technology and new knowledge is digested with ease. My personal philosophy 
+      in life is to live a healthy and enlightened lifestyle while enjoying the ride. 
+
 
 education:
     - degree: 2-year MSc in Cybernetics and Robotics
@@ -125,7 +139,7 @@ projects:
       - title: Linear system control
         link: "https://github.com/evenlwanvik-student/Linsys"
         tagline: "MSc Lab project as a part of Linear System Theory. Employed control theory for optimal operation 
-                  of a 3 DOF Helicopter and simulated autonomous cargo ship."
+                  of a 3 DOF Helicopter and a simulated autonomous cargo ship."
 
       - title: Electromechanical ping pong game
         link: "https://github.com/evenlwanvik-student/byggern"
@@ -151,6 +165,7 @@ publications:
 
     papers:
       - title: 	Real-Time Schottky Measurements in the LHC
+        link: "http://cds.cern.ch/record/2302378"
         authors: Even Løberg Wanvik
         conference: Norwegian University of Science and Technology, 2017-12-12
 
@@ -192,4 +207,4 @@ skills:
         level: 50%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
