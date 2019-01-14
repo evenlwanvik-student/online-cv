@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Even Wanvik
@@ -80,48 +80,40 @@ education:
           - Practical experience, Electronics
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Technical Student
+      time: 2017 - 2018
+      company: CERN (the European Organization for Nuclear Research), Geneva
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        For my main project, I played an important role in the improvement of the signal analysis
+        for the Schottky beam measurement system that is currently deployed in the LHC (The
+        Large Hadron Collider). The work involved liaising with the other teams and experts to
+        understand current issues and future requirements, before implementing the improved
+        algorithms using C++. Other side-projects included creating an off-line analysis tool for
+        the logged measurement data in python and creating network protocol dissectors in C++
+        to analyze the communication between measurement devices in the LHC.
 
-          - Bullet point
-          - Bullet point
+          - BE-BI-SW (Beams Department - Beams Instrumentation - Software Section)
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Security Officer
+      time: 2013 - 2016
+      company: PSS Securitas, Trondheim
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Part time job while studying
 
-          - Bullet point
-          - Bullet point
+          - Crime Prevention, managing threatening situations
+          - Plan fire safety and emergency measures
+          - Security for property
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Automatician
+      time: 2011 - 2016
+      company: TINE, Trondheim
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Apprentice for one and a half years, full time employee for six additional months after
+        recieving my certificate of apprenticeship as a automatician (a branch of the electrician
+        course in high school) and then worked part-time and as a summer substitute while
+        studying. The work involved assembly, operation and maintenance of automated and signal 
+        based control systems in the factory. I also acquired an adequite skillset in operating 
+        mechanical equipment, for instance milling, lathe, etc.
 
 projects:
     title: Projects
@@ -186,6 +178,9 @@ skills:
         
       - name: Julia
         level: 70%
+        
+      - name: Wireshark
+        level: 65%
         
       - name: Go
         level: 60%
