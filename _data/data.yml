@@ -63,7 +63,7 @@ career-profile:
       Short about my skills:
       I have a lot of experience and insight in electrical and mechanical systems from both studying and working as an automatician. 
       As an electrical engineer (BSc), and a degree in cybernetics and robotics (MSc) in the future, I have a solid understanding of 
-      dynamical systems, control theory, informatics (embedded computer systems, RT programming, etc.), signal processing, physics, 
+      dynamical systems, control theory, embedded computer systems, signal processing, physics, 
       and mathematics. At CERN (the European Organization for Nuclear Research) my main project involved developing, and improve upon, 
       existing DSP algorithms for extracting important particle beam parameters. I wrote the RT software in C++, and created an 
       "offline" diagnostics tool for historical data in Python.
@@ -107,20 +107,14 @@ experiences:
         Large Hadron Collider). The work involved liaising with the other teams and experts to
         understand current issues and future requirements, before implementing the improved
         algorithms using C++. Other side-projects included creating an off-line analysis tool for
-        the logged measurement data in python and creating network protocol dissectors in C++
+        the logged measurement data in Python and creating network protocol dissectors in C++
         to analyze the communication between measurement devices in the LHC.
-
-          - BE-BI-SW (Beams Department - Beams Instrumentation - Software Section)
 
     - role: Security Officer
       time: 2013 - 2016
       company: PSS Securitas, Trondheim
       details: |
-        Part time job while studying
-
-          - Crime Prevention, managing threatening situations
-          - Plan fire safety and emergency measures
-          - Security for property
+        Part time job while studying.
 
     - role: Automatician
       time: 2011 - 2016
@@ -155,6 +149,15 @@ projects:
                   based on feedback (pressure and vortex transmitters) and various control loop mechanisms. 
                   A master/slave PLC, decentralized computer and HMI display were interconnected and communicated 
                   via PROFIBUS DP and Ethernet."
+                  
+        - title: Chladni plate experiment
+        tagline: "BSc project first year. The assignment was simply to presentat and/or a periodic trigonometric 
+        function occuring in nature. For this my group created a fully operational <a href="https://www.youtube.com/watch?v=wvJAgrUBF4w" target="_blank" rel="nofollow">chladni plate</a>
+        that perfectly demonstrates interference that occurs when waves that originates from the center of a square 
+        metal plate and is reflected of the walls such that they create patters of nodal points, with virtually zero 
+        energy. When salt is sprinkled, and spread evenly the plate, it forms some beautiful symmetri patterns. The
+        vibrations was created by a subwoofer, whose piston was connected to the plate, and was powered by an external 
+        amplifier. We created a simple labVIEW application to control the frequencies.
 
       - title: Certificate of completed apprenticeship
         tagline: "For my examination as an automatician I created a test bench whose primary purpose was for future 
