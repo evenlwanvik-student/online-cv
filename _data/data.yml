@@ -55,14 +55,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Earlier supervisors would say that I am a flexible and diligent, eager to engage with a new project or task. I am a structured 
-      individual who plans his day/week around studies, gym, prepearing meals and friends. This is also reflected 
+      Former employers would tell you I'm a flexible and diligent employee. New projects and the opportunity to learn something original
+      motivate me in both study and work. I'm a structured individual who plans my days and weeks in regards to school, exercise, meals,
+      and socialization. When I'm not working or studying, you'll find me most often on the run, the gym, playing video games, with 
+      friends, or on Wikipedia/youtube trying to gain some new insights into exciting developments around the globe.
       
-      FORTSETT HÆR!!
-      
-      When I am not working or studying I usually go to for a run or to the gym, play some video games, socialize or master 
-      a new skill. I am an enormous fan of science and technology and new knowledge is digested with ease. My personal philosophy 
-      in life is to live a healthy and enlightened lifestyle while enjoying the ride. 
+      Short about my skills:
+      I have a lot of experience and insight in electrical and mechanical systems from both studying and working as an automatician. 
+      As an electrical engineer (BSc), and a degree in cybernetics and robotics (MSc) in the future, I have a solid understanding of 
+      dynamical systems, control theory, informatics (embedded computer systems, RT programming, etc.), signal processing, physics, 
+      and mathematics. At CERN (the European Organization for Nuclear Research) my main project involved developing, and improve upon, 
+      existing DSP algorithms for extracting important particle beam parameters. I wrote the RT software in C++, and created an 
+      "offline" diagnostics tool for historical data in Python.
 
 
 education:
